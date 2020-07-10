@@ -6,7 +6,7 @@ def logger():
 
     def time(old_foo):
 
-        date = datetime.now()
+        date = datetime.utcnow()
 
         def new_foo(*args, **kwargs):
 
