@@ -7,7 +7,7 @@ from logger import logger
 URL = 'https://en.wikipedia.org/w/api.php?action=opensearch&format=json&limit=1&search='
 
 
-@logger()
+@logger('logs_2.0.txt')
 def open_json():
     """
     Получаем список стран
@@ -41,7 +41,7 @@ class WikiSearch:
         else:
             raise StopIteration
 
-    @logger()
+    @logger('logs_2.0.txt')
     def get_url(self, country_name):
         result = self.session.get(f'{URL}{country_name}')
         return result.json()
@@ -49,7 +49,7 @@ class WikiSearch:
 
 if __name__ == '__main__':
 
-    @logger()
+    @logger('logs_2.0.txt')
     def get_file():
         country_url = []
         for url in WikiSearch():
