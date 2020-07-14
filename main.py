@@ -16,7 +16,7 @@ def open_json():
         data = json.load(fi)
     country_list = []
     for country in data:
-        country_list.append(country['name']['common'])
+        country_list.append(country['name']['official'])
     return country_list
 
 

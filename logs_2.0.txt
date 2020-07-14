@@ -1,1260 +1,1260 @@
 Вызвана функция "open_json"
 Аргументы: "()", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Aruba', 'Afghanistan', 'Angola', 'Anguilla', 'Åland Islands', 'Albania', 'Andorra', 'United Arab Emirates', 'Argentina', 'Armenia', 'American Samoa', 'Antarctica', 'French Southern and Antarctic Lands', 'Antigua and Barbuda', 'Australia', 'Austria', 'Azerbaijan', 'Burundi', 'Belgium', 'Benin', 'Burkina Faso', 'Bangladesh', 'Bulgaria', 'Bahrain', 'Bahamas', 'Bosnia and Herzegovina', 'Saint Barthélemy', 'Saint Helena, Ascension and Tristan da Cunha', 'Belarus', 'Belize', 'Bermuda', 'Bolivia', 'Caribbean Netherlands', 'Brazil', 'Barbados', 'Brunei', 'Bhutan', 'Bouvet Island', 'Botswana', 'Central African Republic', 'Canada', 'Cocos (Keeling) Islands', 'Switzerland', 'Chile', 'China', 'Ivory Coast', 'Cameroon', 'DR Congo', 'Republic of the Congo', 'Cook Islands', 'Colombia', 'Comoros', 'Cape Verde', 'Costa Rica', 'Cuba', 'Curaçao', 'Christmas Island', 'Cayman Islands', 'Cyprus', 'Czechia', 'Germany', 'Djibouti', 'Dominica', 'Denmark', 'Dominican Republic', 'Algeria', 'Ecuador', 'Egypt', 'Eritrea', 'Western Sahara', 'Spain', 'Estonia', 'Ethiopia', 'Finland', 'Fiji', 'Falkland Islands', 'France', 'Faroe Islands', 'Micronesia', 'Gabon', 'United Kingdom', 'Georgia', 'Guernsey', 'Ghana', 'Gibraltar', 'Guinea', 'Guadeloupe', 'Gambia', 'Guinea-Bissau', 'Equatorial Guinea', 'Greece', 'Grenada', 'Greenland', 'Guatemala', 'French Guiana', 'Guam', 'Guyana', 'Hong Kong', 'Heard Island and McDonald Islands', 'Honduras', 'Croatia', 'Haiti', 'Hungary', 'Indonesia', 'Isle of Man', 'India', 'British Indian Ocean Territory', 'Ireland', 'Iran', 'Iraq', 'Iceland', 'Israel', 'Italy', 'Jamaica', 'Jersey', 'Jordan', 'Japan', 'Kazakhstan', 'Kenya', 'Kyrgyzstan', 'Cambodia', 'Kiribati', 'Saint Kitts and Nevis', 'South Korea', 'Kosovo', 'Kuwait', 'Laos', 'Lebanon', 'Liberia', 'Libya', 'Saint Lucia', 'Liechtenstein', 'Sri Lanka', 'Lesotho', 'Lithuania', 'Luxembourg', 'Latvia', 'Macau', 'Saint Martin', 'Morocco', 'Monaco', 'Moldova', 'Madagascar', 'Maldives', 'Mexico', 'Marshall Islands', 'North Macedonia', 'Mali', 'Malta', 'Myanmar', 'Montenegro', 'Mongolia', 'Northern Mariana Islands', 'Mozambique', 'Mauritania', 'Montserrat', 'Martinique', 'Mauritius', 'Malawi', 'Malaysia', 'Mayotte', 'Namibia', 'New Caledonia', 'Niger', 'Norfolk Island', 'Nigeria', 'Nicaragua', 'Niue', 'Netherlands', 'Norway', 'Nepal', 'Nauru', 'New Zealand', 'Oman', 'Pakistan', 'Panama', 'Pitcairn Islands', 'Peru', 'Philippines', 'Palau', 'Papua New Guinea', 'Poland', 'Puerto Rico', 'North Korea', 'Portugal', 'Paraguay', 'Palestine', 'French Polynesia', 'Qatar', 'Réunion', 'Romania', 'Russia', 'Rwanda', 'Saudi Arabia', 'Sudan', 'Senegal', 'Singapore', 'South Georgia', 'Svalbard and Jan Mayen', 'Solomon Islands', 'Sierra Leone', 'El Salvador', 'San Marino', 'Somalia', 'Saint Pierre and Miquelon', 'Serbia', 'South Sudan', 'São Tomé and Príncipe', 'Suriname', 'Slovakia', 'Slovenia', 'Sweden', 'Eswatini', 'Sint Maarten', 'Seychelles', 'Syria', 'Turks and Caicos Islands', 'Chad', 'Togo', 'Thailand', 'Tajikistan', 'Tokelau', 'Turkmenistan', 'Timor-Leste', 'Tonga', 'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Tuvalu', 'Taiwan', 'Tanzania', 'Uganda', 'Ukraine', 'United States Minor Outlying Islands', 'Uruguay', 'United States', 'Uzbekistan', 'Vatican City', 'Saint Vincent and the Grenadines', 'Venezuela', 'British Virgin Islands', 'United States Virgin Islands', 'Vietnam', 'Vanuatu', 'Wallis and Futuna', 'Samoa', 'Yemen', 'South Africa', 'Zambia', 'Zimbabwe']
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Aruba', 'Islamic Republic of Afghanistan', 'Republic of Angola', 'Anguilla', 'Åland Islands', 'Republic of Albania', 'Principality of Andorra', 'United Arab Emirates', 'Argentine Republic', 'Republic of Armenia', 'American Samoa', 'Antarctica', 'Territory of the French Southern and Antarctic Lands', 'Antigua and Barbuda', 'Commonwealth of Australia', 'Republic of Austria', 'Republic of Azerbaijan', 'Republic of Burundi', 'Kingdom of Belgium', 'Republic of Benin', 'Burkina Faso', "People's Republic of Bangladesh", 'Republic of Bulgaria', 'Kingdom of Bahrain', 'Commonwealth of the Bahamas', 'Bosnia and Herzegovina', 'Collectivity of Saint Barthélemy', 'Saint Helena, Ascension and Tristan da Cunha', 'Republic of Belarus', 'Belize', 'Bermuda', 'Plurinational State of Bolivia', 'Bonaire, Sint Eustatius and Saba', 'Federative Republic of Brazil', 'Barbados', 'Nation of Brunei, Abode of Peace', 'Kingdom of Bhutan', 'Bouvet Island', 'Republic of Botswana', 'Central African Republic', 'Canada', 'Territory of the Cocos (Keeling) Islands', 'Swiss Confederation', 'Republic of Chile', "People's Republic of China", "Republic of Côte d'Ivoire", 'Republic of Cameroon', 'Democratic Republic of the Congo', 'Republic of the Congo', 'Cook Islands', 'Republic of Colombia', 'Union of the Comoros', 'Republic of Cabo Verde', 'Republic of Costa Rica', 'Republic of Cuba', 'Country of Curaçao', 'Territory of Christmas Island', 'Cayman Islands', 'Republic of Cyprus', 'Czech Republic', 'Federal Republic of Germany', 'Republic of Djibouti', 'Commonwealth of Dominica', 'Kingdom of Denmark', 'Dominican Republic', "People's Democratic Republic of Algeria", 'Republic of Ecuador', 'Arab Republic of Egypt', 'State of Eritrea', 'Sahrawi Arab Democratic Republic', 'Kingdom of Spain', 'Republic of Estonia', 'Federal Democratic Republic of Ethiopia', 'Republic of Finland', 'Republic of Fiji', 'Falkland Islands', 'French Republic', 'Faroe Islands', 'Federated States of Micronesia', 'Gabonese Republic', 'United Kingdom of Great Britain and Northern Ireland', 'Georgia', 'Bailiwick of Guernsey', 'Republic of Ghana', 'Gibraltar', 'Republic of Guinea', 'Guadeloupe', 'Republic of the Gambia', 'Republic of Guinea-Bissau', 'Republic of Equatorial Guinea', 'Hellenic Republic', 'Grenada', 'Greenland', 'Republic of Guatemala', 'Guiana', 'Guam', 'Co-operative Republic of Guyana', "Hong Kong Special Administrative Region of the People's Republic of China", 'Heard Island and McDonald Islands', 'Republic of Honduras', 'Republic of Croatia', 'Republic of Haiti', 'Hungary', 'Republic of Indonesia', 'Isle of Man', 'Republic of India', 'British Indian Ocean Territory', 'Republic of Ireland', 'Islamic Republic of Iran', 'Republic of Iraq', 'Iceland', 'State of Israel', 'Italian Republic', 'Jamaica', 'Bailiwick of Jersey', 'Hashemite Kingdom of Jordan', 'Japan', 'Republic of Kazakhstan', 'Republic of Kenya', 'Kyrgyz Republic', 'Kingdom of Cambodia', 'Independent and Sovereign Republic of Kiribati', 'Federation of Saint Christopher and Nevis', 'Republic of Korea', 'Republic of Kosovo', 'State of Kuwait', "Lao People's Democratic Republic", 'Lebanese Republic', 'Republic of Liberia', 'State of Libya', 'Saint Lucia', 'Principality of Liechtenstein', 'Democratic Socialist Republic of Sri Lanka', 'Kingdom of Lesotho', 'Republic of Lithuania', 'Grand Duchy of Luxembourg', 'Republic of Latvia', "Macao Special Administrative Region of the People's Republic of China", 'Saint Martin', 'Kingdom of Morocco', 'Principality of Monaco', 'Republic of Moldova', 'Republic of Madagascar', 'Republic of the Maldives', 'United Mexican States', 'Republic of the Marshall Islands', 'Republic of North Macedonia', 'Republic of Mali', 'Republic of Malta', 'Republic of the Union of Myanmar', 'Montenegro', 'Mongolia', 'Commonwealth of the Northern Mariana Islands', 'Republic of Mozambique', 'Islamic Republic of Mauritania', 'Montserrat', 'Martinique', 'Republic of Mauritius', 'Republic of Malawi', 'Malaysia', 'Department of Mayotte', 'Republic of Namibia', 'New Caledonia', 'Republic of Niger', 'Territory of Norfolk Island', 'Federal Republic of Nigeria', 'Republic of Nicaragua', 'Niue', 'Kingdom of the Netherlands', 'Kingdom of Norway', 'Federal Democratic Republic of Nepal', 'Republic of Nauru', 'New Zealand', 'Sultanate of Oman', 'Islamic Republic of Pakistan', 'Republic of Panama', 'Pitcairn Group of Islands', 'Republic of Peru', 'Republic of the Philippines', 'Republic of Palau', 'Independent State of Papua New Guinea', 'Republic of Poland', 'Commonwealth of Puerto Rico', "Democratic People's Republic of Korea", 'Portuguese Republic', 'Republic of Paraguay', 'State of Palestine', 'French Polynesia', 'State of Qatar', 'Réunion Island', 'Romania', 'Russian Federation', 'Republic of Rwanda', 'Kingdom of Saudi Arabia', 'Republic of the Sudan', 'Republic of Senegal', 'Republic of Singapore', 'South Georgia and the South Sandwich Islands', 'Svalbard og Jan Mayen', 'Solomon Islands', 'Republic of Sierra Leone', 'Republic of El Salvador', 'Most Serene Republic of San Marino', 'Federal Republic of Somalia', 'Saint Pierre and Miquelon', 'Republic of Serbia', 'Republic of South Sudan', 'Democratic Republic of São Tomé and Príncipe', 'Republic of Suriname', 'Slovak Republic', 'Republic of Slovenia', 'Kingdom of Sweden', 'Kingdom of Eswatini', 'Sint Maarten', 'Republic of Seychelles', 'Syrian Arab Republic', 'Turks and Caicos Islands', 'Republic of Chad', 'Togolese Republic', 'Kingdom of Thailand', 'Republic of Tajikistan', 'Tokelau', 'Turkmenistan', 'Democratic Republic of Timor-Leste', 'Kingdom of Tonga', 'Republic of Trinidad and Tobago', 'Tunisian Republic', 'Republic of Turkey', 'Tuvalu', 'Republic of China (Taiwan)', 'United Republic of Tanzania', 'Republic of Uganda', 'Ukraine', 'United States Minor Outlying Islands', 'Oriental Republic of Uruguay', 'United States of America', 'Republic of Uzbekistan', 'Vatican City State', 'Saint Vincent and the Grenadines', 'Bolivarian Republic of Venezuela', 'Virgin Islands', 'Virgin Islands of the United States', 'Socialist Republic of Vietnam', 'Republic of Vanuatu', 'Territory of the Wallis and Futuna Islands', 'Independent State of Samoa', 'Republic of Yemen', 'Republic of South Africa', 'Republic of Zambia', 'Republic of Zimbabwe']
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Aruba')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Aruba')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Aruba', ['Aruba'], [''], ['https://en.wikipedia.org/wiki/Aruba']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Afghanistan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Afghanistan', ['Afghanistan'], [''], ['https://en.wikipedia.org/wiki/Afghanistan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Islamic Republic of Afghanistan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Islamic Republic of Afghanistan', ['Islamic Republic of Afghanistan'], [''], ['https://en.wikipedia.org/wiki/Islamic_Republic_of_Afghanistan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Angola')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Angola', ['Angola'], [''], ['https://en.wikipedia.org/wiki/Angola']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Angola')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Angola', ['Republic of Angola'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Angola']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Anguilla')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Anguilla')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Anguilla', ['Anguilla'], [''], ['https://en.wikipedia.org/wiki/Anguilla']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Åland Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Åland Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Åland Islands', ['Åland Islands'], [''], ['https://en.wikipedia.org/wiki/%C3%85land_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Albania')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Albania', ['Albania'], [''], ['https://en.wikipedia.org/wiki/Albania']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Albania')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Albania', ['Republic of Albania'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Albania']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Andorra')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Andorra', ['Andorra'], [''], ['https://en.wikipedia.org/wiki/Andorra']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Principality of Andorra')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Principality of Andorra', ['Principality of Andorra'], [''], ['https://en.wikipedia.org/wiki/Principality_of_Andorra']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'United Arab Emirates')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'United Arab Emirates')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['United Arab Emirates', ['United Arab Emirates'], [''], ['https://en.wikipedia.org/wiki/United_Arab_Emirates']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Argentina')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Argentina', ['Argentina'], [''], ['https://en.wikipedia.org/wiki/Argentina']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Argentine Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Argentine Republic', ['Argentine Republic'], [''], ['https://en.wikipedia.org/wiki/Argentine_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Armenia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Armenia', ['Armenia'], [''], ['https://en.wikipedia.org/wiki/Armenia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Armenia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Armenia', ['Republic of Armenia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Armenia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'American Samoa')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'American Samoa')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['American Samoa', ['American Samoa'], [''], ['https://en.wikipedia.org/wiki/American_Samoa']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Antarctica')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Antarctica')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Antarctica', ['Antarctica'], [''], ['https://en.wikipedia.org/wiki/Antarctica']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'French Southern and Antarctic Lands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['French Southern and Antarctic Lands', ['French Southern and Antarctic Lands'], [''], ['https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Territory of the French Southern and Antarctic Lands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Territory of the French Southern and Antarctic Lands', ['Territory of the French Southern and Antarctic Lands'], [''], ['https://en.wikipedia.org/wiki/Territory_of_the_French_Southern_and_Antarctic_Lands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Antigua and Barbuda')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Antigua and Barbuda')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Antigua and Barbuda', ['Antigua and Barbuda'], [''], ['https://en.wikipedia.org/wiki/Antigua_and_Barbuda']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Australia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Australia', ['Australia'], [''], ['https://en.wikipedia.org/wiki/Australia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Commonwealth of Australia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Commonwealth of Australia', ['Commonwealth of Australia'], [''], ['https://en.wikipedia.org/wiki/Commonwealth_of_Australia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Austria')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Austria', ['Austria'], [''], ['https://en.wikipedia.org/wiki/Austria']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Austria')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Austria', ['Republic of Austria'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Austria']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Azerbaijan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Azerbaijan', ['Azerbaijan'], [''], ['https://en.wikipedia.org/wiki/Azerbaijan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Azerbaijan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Azerbaijan', ['Republic of Azerbaijan'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Azerbaijan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Burundi')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Burundi', ['Burundi'], [''], ['https://en.wikipedia.org/wiki/Burundi']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Burundi')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Burundi', ['Republic of Burundi'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Burundi']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Belgium')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Belgium', ['Belgium'], [''], ['https://en.wikipedia.org/wiki/Belgium']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Belgium')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Belgium', ['Kingdom of Belgium'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Belgium']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Benin')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Benin', ['Benin'], [''], ['https://en.wikipedia.org/wiki/Benin']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Benin')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Benin', ['Republic of Benin'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Benin']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Burkina Faso')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Burkina Faso')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Burkina Faso', ['Burkina Faso'], [''], ['https://en.wikipedia.org/wiki/Burkina_Faso']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bangladesh')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Bangladesh', ['Bangladesh'], [''], ['https://en.wikipedia.org/wiki/Bangladesh']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "People's Republic of Bangladesh")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["People's Republic of Bangladesh", ['People’s Republic of Bangladesh'], [''], ['https://en.wikipedia.org/wiki/People%E2%80%99s_Republic_of_Bangladesh']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bulgaria')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Bulgaria', ['Bulgaria'], [''], ['https://en.wikipedia.org/wiki/Bulgaria']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Bulgaria')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Bulgaria', ['Republic of Bulgaria'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Bulgaria']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bahrain')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Bahrain', ['Bahrain'], [''], ['https://en.wikipedia.org/wiki/Bahrain']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Bahrain')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Bahrain', ['Kingdom of Bahrain'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Bahrain']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bahamas')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Bahamas', ['Bahamas'], [''], ['https://en.wikipedia.org/wiki/Bahamas']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Commonwealth of the Bahamas')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Commonwealth of the Bahamas', ['Commonwealth of the Bahamas'], [''], ['https://en.wikipedia.org/wiki/Commonwealth_of_the_Bahamas']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bosnia and Herzegovina')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bosnia and Herzegovina')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Bosnia and Herzegovina', ['Bosnia and Herzegovina'], [''], ['https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Barthélemy')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Saint Barthélemy', ['Saint Barthélemy'], [''], ['https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Collectivity of Saint Barthélemy')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Collectivity of Saint Barthélemy', ['Collectivity of Saint Barthélemy'], [''], ['https://en.wikipedia.org/wiki/Collectivity_of_Saint_Barth%C3%A9lemy']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Helena, Ascension and Tristan da Cunha')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Saint Helena, Ascension and Tristan da Cunha')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Saint Helena, Ascension and Tristan da Cunha', ['Saint Helena, Ascension and Tristan da Cunha'], [''], ['https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Belarus')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Belarus', ['Belarus'], [''], ['https://en.wikipedia.org/wiki/Belarus']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Belarus')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Belarus', ['Republic of Belarus'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Belarus']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Belize')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Belize')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Belize', ['Belize'], [''], ['https://en.wikipedia.org/wiki/Belize']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bermuda')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bermuda')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Bermuda', ['Bermuda'], [''], ['https://en.wikipedia.org/wiki/Bermuda']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bolivia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Bolivia', ['Bolivia'], [''], ['https://en.wikipedia.org/wiki/Bolivia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Plurinational State of Bolivia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Plurinational State of Bolivia', ['Plurinational State of Bolivia'], [''], ['https://en.wikipedia.org/wiki/Plurinational_State_of_Bolivia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Caribbean Netherlands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Caribbean Netherlands', ['Caribbean Netherlands'], [''], ['https://en.wikipedia.org/wiki/Caribbean_Netherlands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bonaire, Sint Eustatius and Saba')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Bonaire, Sint Eustatius and Saba', ['Bonaire, Sint Eustatius and Saba'], [''], ['https://en.wikipedia.org/wiki/Bonaire,_Sint_Eustatius_and_Saba']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Brazil')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Brazil', ['Brazil'], [''], ['https://en.wikipedia.org/wiki/Brazil']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federative Republic of Brazil')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federative Republic of Brazil', ['Federative Republic of Brazil'], [''], ['https://en.wikipedia.org/wiki/Federative_Republic_of_Brazil']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Barbados')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Barbados')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Barbados', ['Barbados'], [''], ['https://en.wikipedia.org/wiki/Barbados']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Brunei')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Brunei', ['Brunei'], [''], ['https://en.wikipedia.org/wiki/Brunei']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Nation of Brunei, Abode of Peace')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Nation of Brunei, Abode of Peace', ['Nation of Brunei, Abode of Peace'], [''], ['https://en.wikipedia.org/wiki/Nation_of_Brunei,_Abode_of_Peace']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bhutan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Bhutan', ['Bhutan'], [''], ['https://en.wikipedia.org/wiki/Bhutan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Bhutan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Bhutan', ['Kingdom of Bhutan'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Bhutan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Bouvet Island')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bouvet Island')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Bouvet Island', ['Bouvet Island'], [''], ['https://en.wikipedia.org/wiki/Bouvet_Island']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Botswana')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Botswana', ['Botswana'], [''], ['https://en.wikipedia.org/wiki/Botswana']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Botswana')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Botswana', ['Republic of Botswana'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Botswana']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Central African Republic')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Central African Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Central African Republic', ['Central African Republic'], [''], ['https://en.wikipedia.org/wiki/Central_African_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Canada')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Canada')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Canada', ['Canada'], [''], ['https://en.wikipedia.org/wiki/Canada']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cocos (Keeling) Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Cocos (Keeling) Islands', ['Cocos (Keeling) Islands'], [''], ['https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Territory of the Cocos (Keeling) Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Territory of the Cocos (Keeling) Islands', ['Territory of the Cocos (Keeling) Islands'], [''], ['https://en.wikipedia.org/wiki/Territory_of_the_Cocos_(Keeling)_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Switzerland')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Switzerland', ['Switzerland'], [''], ['https://en.wikipedia.org/wiki/Switzerland']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Swiss Confederation')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Swiss Confederation', ['Swiss Confederation'], [''], ['https://en.wikipedia.org/wiki/Swiss_Confederation']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Chile')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Chile', ['Chile'], [''], ['https://en.wikipedia.org/wiki/Chile']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Chile')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Chile', ['Republic of Chile'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Chile']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'China')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['China', ['China'], [''], ['https://en.wikipedia.org/wiki/China']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "People's Republic of China")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["People's Republic of China", ["People's Republic of China"], [''], ['https://en.wikipedia.org/wiki/People%27s_Republic_of_China']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Ivory Coast')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Ivory Coast', ['Ivory Coast'], [''], ['https://en.wikipedia.org/wiki/Ivory_Coast']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "Republic of Côte d'Ivoire")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["Republic of Côte d'Ivoire", ["Republic of Côte d'Ivoire"], [''], ['https://en.wikipedia.org/wiki/Republic_of_C%C3%B4te_d%27Ivoire']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cameroon')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Cameroon', ['Cameroon'], [''], ['https://en.wikipedia.org/wiki/Cameroon']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Cameroon')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Cameroon', ['Republic Of Cameroon'], [''], ['https://en.wikipedia.org/wiki/Republic_Of_Cameroon']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'DR Congo')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['DR Congo', ['DR Congo'], [''], ['https://en.wikipedia.org/wiki/DR_Congo']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Democratic Republic of the Congo')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Democratic Republic of the Congo', ['Democratic Republic of the Congo'], [''], ['https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Republic of the Congo')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Congo')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Republic of the Congo', ['Republic of the Congo'], [''], ['https://en.wikipedia.org/wiki/Republic_of_the_Congo']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cook Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Cook Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Cook Islands', ['Cook Islands'], [''], ['https://en.wikipedia.org/wiki/Cook_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Colombia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Colombia', ['Colombia'], [''], ['https://en.wikipedia.org/wiki/Colombia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Colombia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Colombia', ['Republic of Colombia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Colombia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Comoros')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Comoros', ['Comoros'], [''], ['https://en.wikipedia.org/wiki/Comoros']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Union of the Comoros')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Union of the Comoros', ['Union of the Comoros'], [''], ['https://en.wikipedia.org/wiki/Union_of_the_Comoros']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cape Verde')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Cape Verde', ['Cape Verde'], [''], ['https://en.wikipedia.org/wiki/Cape_Verde']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Cabo Verde')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Cabo Verde', ['Republic of Cabo Verde'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Cabo_Verde']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Costa Rica')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Costa Rica', ['Costa Rica'], [''], ['https://en.wikipedia.org/wiki/Costa_Rica']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Costa Rica')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Costa Rica', ['Republic of Costa Rica'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Costa_Rica']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cuba')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Cuba', ['Cuba'], [''], ['https://en.wikipedia.org/wiki/Cuba']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Cuba')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Cuba', ['Republic of Cuba'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Cuba']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Curaçao')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Curaçao', ['Curaçao'], [''], ['https://en.wikipedia.org/wiki/Cura%C3%A7ao']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Country of Curaçao')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Country of Curaçao', ['Country of Curaçao'], [''], ['https://en.wikipedia.org/wiki/Country_of_Cura%C3%A7ao']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Christmas Island')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Christmas Island', ['Christmas Island'], [''], ['https://en.wikipedia.org/wiki/Christmas_Island']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Territory of Christmas Island')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Territory of Christmas Island', ['Territory of Christmas Island'], [''], ['https://en.wikipedia.org/wiki/Territory_of_Christmas_Island']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cayman Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Cayman Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Cayman Islands', ['Cayman Islands'], [''], ['https://en.wikipedia.org/wiki/Cayman_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cyprus')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Cyprus', ['Cyprus'], [''], ['https://en.wikipedia.org/wiki/Cyprus']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Cyprus')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Cyprus', ['Republic of Cyprus'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Cyprus']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Czechia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Czechia', ['Czechia'], [''], ['https://en.wikipedia.org/wiki/Czechia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Czech Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Czech Republic', ['Czech Republic'], [''], ['https://en.wikipedia.org/wiki/Czech_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Germany')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Germany', ['Germany'], [''], ['https://en.wikipedia.org/wiki/Germany']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federal Republic of Germany')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federal Republic of Germany', ['Federal Republic of Germany'], [''], ['https://en.wikipedia.org/wiki/Federal_Republic_of_Germany']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Djibouti')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Djibouti', ['Djibouti'], [''], ['https://en.wikipedia.org/wiki/Djibouti']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Djibouti')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Djibouti', ['Republic of Djibouti'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Djibouti']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Dominica')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Dominica', ['Dominica'], [''], ['https://en.wikipedia.org/wiki/Dominica']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Commonwealth of Dominica')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Commonwealth of Dominica', ['Commonwealth of Dominica'], [''], ['https://en.wikipedia.org/wiki/Commonwealth_of_Dominica']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Denmark')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Denmark', ['Denmark'], [''], ['https://en.wikipedia.org/wiki/Denmark']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Denmark')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Denmark', ['Kingdom of Denmark'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Denmark']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Dominican Republic')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Dominican Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Dominican Republic', ['Dominican Republic'], [''], ['https://en.wikipedia.org/wiki/Dominican_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Algeria')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Algeria', ['Algeria'], [''], ['https://en.wikipedia.org/wiki/Algeria']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "People's Democratic Republic of Algeria")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["People's Democratic Republic of Algeria", ["People's Democratic Republic of Algeria"], [''], ['https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Algeria']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Ecuador')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Ecuador', ['Ecuador'], [''], ['https://en.wikipedia.org/wiki/Ecuador']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Ecuador')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Ecuador', ['Republic of Ecuador'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Ecuador']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Egypt')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Egypt', ['Egypt'], [''], ['https://en.wikipedia.org/wiki/Egypt']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Arab Republic of Egypt')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Arab Republic of Egypt', ['Arab Republic of Egypt'], [''], ['https://en.wikipedia.org/wiki/Arab_Republic_of_Egypt']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Eritrea')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Eritrea', ['Eritrea'], [''], ['https://en.wikipedia.org/wiki/Eritrea']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'State of Eritrea')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['State of Eritrea', ['State of Eritrea'], [''], ['https://en.wikipedia.org/wiki/State_of_Eritrea']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Western Sahara')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Western Sahara', ['Western Sahara'], [''], ['https://en.wikipedia.org/wiki/Western_Sahara']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Sahrawi Arab Democratic Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Sahrawi Arab Democratic Republic', ['Sahrawi Arab Democratic Republic'], [''], ['https://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Spain')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Spain', ['Spain'], [''], ['https://en.wikipedia.org/wiki/Spain']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Spain')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Spain', ['Kingdom of Spain'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Spain']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Estonia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Estonia', ['Estonia'], [''], ['https://en.wikipedia.org/wiki/Estonia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Estonia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Estonia', ['Republic of Estonia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Estonia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Ethiopia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Ethiopia', ['Ethiopia'], [''], ['https://en.wikipedia.org/wiki/Ethiopia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federal Democratic Republic of Ethiopia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federal Democratic Republic of Ethiopia', ['Federal Democratic Republic of Ethiopia'], [''], ['https://en.wikipedia.org/wiki/Federal_Democratic_Republic_of_Ethiopia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Finland')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Finland', ['Finland'], [''], ['https://en.wikipedia.org/wiki/Finland']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Finland')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Finland', ['Republic of Finland'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Finland']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Fiji')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Fiji', ['Fiji'], [''], ['https://en.wikipedia.org/wiki/Fiji']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Fiji')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Fiji', ['Republic of Fiji'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Fiji']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Falkland Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Falkland Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Falkland Islands', ['Falkland Islands'], [''], ['https://en.wikipedia.org/wiki/Falkland_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'France')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['France', ['France'], [''], ['https://en.wikipedia.org/wiki/France']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'French Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['French Republic', ['French Republic'], [''], ['https://en.wikipedia.org/wiki/French_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Faroe Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Faroe Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Faroe Islands', ['Faroe Islands'], [''], ['https://en.wikipedia.org/wiki/Faroe_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Micronesia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Micronesia', ['Micronesia'], [''], ['https://en.wikipedia.org/wiki/Micronesia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federated States of Micronesia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federated States of Micronesia', ['Federated States of Micronesia'], [''], ['https://en.wikipedia.org/wiki/Federated_States_of_Micronesia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Gabon')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Gabon', ['Gabon'], [''], ['https://en.wikipedia.org/wiki/Gabon']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Gabonese Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Gabonese Republic', ['Gabonese Republic'], [''], ['https://en.wikipedia.org/wiki/Gabonese_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'United Kingdom')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['United Kingdom', ['United Kingdom'], [''], ['https://en.wikipedia.org/wiki/United_Kingdom']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'United Kingdom of Great Britain and Northern Ireland')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['United Kingdom of Great Britain and Northern Ireland', ['United kingdom of great britain and northern ireland'], [''], ['https://en.wikipedia.org/wiki/United_kingdom_of_great_britain_and_northern_ireland']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Georgia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Georgia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Georgia', ['Georgia'], [''], ['https://en.wikipedia.org/wiki/Georgia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guernsey')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Guernsey', ['Guernsey'], [''], ['https://en.wikipedia.org/wiki/Guernsey']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bailiwick of Guernsey')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Bailiwick of Guernsey', ['Bailiwick of Guernsey'], [''], ['https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Ghana')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Ghana', ['Ghana'], [''], ['https://en.wikipedia.org/wiki/Ghana']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Ghana')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Ghana', ['Republic of Ghana'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Ghana']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Gibraltar')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Gibraltar')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Gibraltar', ['Gibraltar'], [''], ['https://en.wikipedia.org/wiki/Gibraltar']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guinea')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Guinea', ['Guinea pig'], [''], ['https://en.wikipedia.org/wiki/Guinea_pig']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Guinea')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Guinea', ['Republic of Guinea'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Guinea']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guadeloupe')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Guadeloupe')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Guadeloupe', ['Guadeloupe'], [''], ['https://en.wikipedia.org/wiki/Guadeloupe']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Gambia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Gambia', ['Gambia'], [''], ['https://en.wikipedia.org/wiki/Gambia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Gambia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of the Gambia', ['Republic of the Gambia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_the_Gambia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guinea-Bissau')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Guinea-Bissau', ['Guinea-Bissau'], [''], ['https://en.wikipedia.org/wiki/Guinea-Bissau']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Guinea-Bissau')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Guinea-Bissau', ['Republic of Guinea Bissau'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Guinea_Bissau']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Equatorial Guinea')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Equatorial Guinea', ['Equatorial Guinea'], [''], ['https://en.wikipedia.org/wiki/Equatorial_Guinea']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Equatorial Guinea')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Equatorial Guinea', ['Republic of Equatorial Guinea'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Equatorial_Guinea']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Greece')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Greece', ['Greece'], [''], ['https://en.wikipedia.org/wiki/Greece']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Hellenic Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Hellenic Republic', ['Hellenic Republic'], [''], ['https://en.wikipedia.org/wiki/Hellenic_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Grenada')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Grenada')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Grenada', ['Grenada'], [''], ['https://en.wikipedia.org/wiki/Grenada']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Greenland')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Greenland')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Greenland', ['Greenland'], [''], ['https://en.wikipedia.org/wiki/Greenland']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guatemala')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Guatemala', ['Guatemala'], [''], ['https://en.wikipedia.org/wiki/Guatemala']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Guatemala')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Guatemala', ['Republic of Guatemala'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Guatemala']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'French Guiana')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['French Guiana', ['French Guiana'], [''], ['https://en.wikipedia.org/wiki/French_Guiana']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Guiana')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Guiana', ['Guiana'], [''], ['https://en.wikipedia.org/wiki/Guiana']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guam')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Guam')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Guam', ['Guam'], [''], ['https://en.wikipedia.org/wiki/Guam']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Guyana')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Guyana', ['Guyana'], [''], ['https://en.wikipedia.org/wiki/Guyana']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Co-operative Republic of Guyana')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Co-operative Republic of Guyana', ['Co-operative Republic of Guyana'], [''], ['https://en.wikipedia.org/wiki/Co-operative_Republic_of_Guyana']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Hong Kong')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Hong Kong', ['Hong Kong'], [''], ['https://en.wikipedia.org/wiki/Hong_Kong']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "Hong Kong Special Administrative Region of the People's Republic of China")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["Hong Kong Special Administrative Region of the People's Republic of China", ["Hong Kong Special Administrative Region of the People's Republic of China"], [''], ['https://en.wikipedia.org/wiki/Hong_Kong_Special_Administrative_Region_of_the_People%27s_Republic_of_China']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Heard Island and McDonald Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Heard Island and McDonald Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Heard Island and McDonald Islands', ['Heard Island and McDonald Islands'], [''], ['https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Honduras')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Honduras', ['Honduras'], [''], ['https://en.wikipedia.org/wiki/Honduras']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Honduras')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Honduras', ['Republic of Honduras'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Honduras']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Croatia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Croatia', ['Croatia'], [''], ['https://en.wikipedia.org/wiki/Croatia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Croatia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Croatia', ['Republic of Croatia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Croatia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Haiti')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Haiti', ['Haiti'], [''], ['https://en.wikipedia.org/wiki/Haiti']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Haiti')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Haiti', ['Republic of Haiti'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Haiti']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Hungary')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Hungary')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Hungary', ['Hungary'], [''], ['https://en.wikipedia.org/wiki/Hungary']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Indonesia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Indonesia', ['Indonesia'], [''], ['https://en.wikipedia.org/wiki/Indonesia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Indonesia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Indonesia', ['Republic Of Indonesia'], [''], ['https://en.wikipedia.org/wiki/Republic_Of_Indonesia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Isle of Man')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Isle of Man')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Isle of Man', ['Isle of Man'], [''], ['https://en.wikipedia.org/wiki/Isle_of_Man']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'India')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['India', ['India'], [''], ['https://en.wikipedia.org/wiki/India']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of India')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of India', ['Republic of India'], [''], ['https://en.wikipedia.org/wiki/Republic_of_India']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'British Indian Ocean Territory')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'British Indian Ocean Territory')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['British Indian Ocean Territory', ['British Indian Ocean Territory'], [''], ['https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Ireland')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Ireland', ['Ireland'], [''], ['https://en.wikipedia.org/wiki/Ireland']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Ireland')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Ireland', ['Republic of Ireland'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Ireland']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Iran')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Iran', ['Iran'], [''], ['https://en.wikipedia.org/wiki/Iran']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Islamic Republic of Iran')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Islamic Republic of Iran', ['Islamic Republic of Iran'], [''], ['https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Iraq')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Iraq', ['Iraq'], [''], ['https://en.wikipedia.org/wiki/Iraq']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Iraq')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Iraq', ['Republic of Iraq'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Iraq']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Iceland')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Iceland')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Iceland', ['Iceland'], [''], ['https://en.wikipedia.org/wiki/Iceland']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Israel')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Israel', ['Israel'], [''], ['https://en.wikipedia.org/wiki/Israel']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'State of Israel')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['State of Israel', ['State of israel'], [''], ['https://en.wikipedia.org/wiki/State_of_israel']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Italy')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Italy', ['Italy'], [''], ['https://en.wikipedia.org/wiki/Italy']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Italian Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Italian Republic', ['Italian Republic'], [''], ['https://en.wikipedia.org/wiki/Italian_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Jamaica')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Jamaica')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Jamaica', ['Jamaica'], [''], ['https://en.wikipedia.org/wiki/Jamaica']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Jersey')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Jersey', ['Jersey'], [''], ['https://en.wikipedia.org/wiki/Jersey']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bailiwick of Jersey')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Bailiwick of Jersey', ['Bailiwick of Jersey'], [''], ['https://en.wikipedia.org/wiki/Bailiwick_of_Jersey']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Jordan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Jordan', ['Jordan'], [''], ['https://en.wikipedia.org/wiki/Jordan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Hashemite Kingdom of Jordan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Hashemite Kingdom of Jordan', ['Hashemite Kingdom of Jordan'], [''], ['https://en.wikipedia.org/wiki/Hashemite_Kingdom_of_Jordan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Japan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Japan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Japan', ['Japan'], [''], ['https://en.wikipedia.org/wiki/Japan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Kazakhstan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Kazakhstan', ['Kazakhstan'], [''], ['https://en.wikipedia.org/wiki/Kazakhstan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Kazakhstan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Kazakhstan', ['Republic of Kazakhstan'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Kazakhstan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Kenya')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Kenya', ['Kenya'], [''], ['https://en.wikipedia.org/wiki/Kenya']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Kenya')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Kenya', ['Republic of Kenya'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Kenya']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Kyrgyzstan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Kyrgyzstan', ['Kyrgyzstan'], [''], ['https://en.wikipedia.org/wiki/Kyrgyzstan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kyrgyz Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kyrgyz Republic', ['Kyrgyz Republic'], [''], ['https://en.wikipedia.org/wiki/Kyrgyz_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Cambodia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Cambodia', ['Cambodia'], [''], ['https://en.wikipedia.org/wiki/Cambodia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Cambodia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Cambodia', ['Kingdom of Cambodia'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Cambodia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Kiribati')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Kiribati', ['Kiribati'], [''], ['https://en.wikipedia.org/wiki/Kiribati']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Independent and Sovereign Republic of Kiribati')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Independent and Sovereign Republic of Kiribati', ['Independent and Sovereign Republic of Kiribati'], [''], ['https://en.wikipedia.org/wiki/Independent_and_Sovereign_Republic_of_Kiribati']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Kitts and Nevis')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Saint Kitts and Nevis', ['Saint Kitts and Nevis'], [''], ['https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federation of Saint Christopher and Nevis')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federation of Saint Christopher and Nevis', ['Federation of Saint Christopher and Nevis'], [''], ['https://en.wikipedia.org/wiki/Federation_of_Saint_Christopher_and_Nevis']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'South Korea')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['South Korea', ['South Korea'], [''], ['https://en.wikipedia.org/wiki/South_Korea']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Korea')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Korea', ['Republic of Korea'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Korea']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Kosovo')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Kosovo', ['Kosovo'], [''], ['https://en.wikipedia.org/wiki/Kosovo']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Kosovo')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Kosovo', ['Republic of Kosovo'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Kosovo']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Kuwait')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Kuwait', ['Kuwait'], [''], ['https://en.wikipedia.org/wiki/Kuwait']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'State of Kuwait')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['State of Kuwait', ['State of Kuwait'], [''], ['https://en.wikipedia.org/wiki/State_of_Kuwait']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Laos')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Laos', ['Laos'], [''], ['https://en.wikipedia.org/wiki/Laos']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "Lao People's Democratic Republic")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["Lao People's Democratic Republic", ['Lao People’s Democratic Republic'], [''], ['https://en.wikipedia.org/wiki/Lao_People%E2%80%99s_Democratic_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Lebanon')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Lebanon', ['Lebanon'], [''], ['https://en.wikipedia.org/wiki/Lebanon']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Lebanese Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Lebanese Republic', ['Lebanese Republic'], [''], ['https://en.wikipedia.org/wiki/Lebanese_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Liberia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Liberia', ['Liberia'], [''], ['https://en.wikipedia.org/wiki/Liberia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Liberia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Liberia', ['Republic of Liberia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Liberia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Libya')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Libya', ['Libya'], [''], ['https://en.wikipedia.org/wiki/Libya']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'State of Libya')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['State of Libya', ['State of Libya'], [''], ['https://en.wikipedia.org/wiki/State_of_Libya']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Lucia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Saint Lucia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Saint Lucia', ['Saint Lucia'], [''], ['https://en.wikipedia.org/wiki/Saint_Lucia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Liechtenstein')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Liechtenstein', ['Liechtenstein'], [''], ['https://en.wikipedia.org/wiki/Liechtenstein']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Principality of Liechtenstein')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Principality of Liechtenstein', ['Principality of Liechtenstein'], [''], ['https://en.wikipedia.org/wiki/Principality_of_Liechtenstein']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Sri Lanka')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Sri Lanka', ['Sri Lanka'], [''], ['https://en.wikipedia.org/wiki/Sri_Lanka']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Democratic Socialist Republic of Sri Lanka')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Democratic Socialist Republic of Sri Lanka', ['DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA'], [''], ['https://en.wikipedia.org/wiki/DEMOCRATIC_SOCIALIST_REPUBLIC_OF_SRI_LANKA']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Lesotho')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Lesotho', ['Lesotho'], [''], ['https://en.wikipedia.org/wiki/Lesotho']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Lesotho')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Lesotho', ['Kingdom of Lesotho'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Lesotho']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Lithuania')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Lithuania', ['Lithuania'], [''], ['https://en.wikipedia.org/wiki/Lithuania']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Lithuania')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Lithuania', ['Republic of Lithuania'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Lithuania']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Luxembourg')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Luxembourg', ['Luxembourg'], [''], ['https://en.wikipedia.org/wiki/Luxembourg']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Grand Duchy of Luxembourg')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Grand Duchy of Luxembourg', ['Grand-Duchy of Luxembourg'], [''], ['https://en.wikipedia.org/wiki/Grand-Duchy_of_Luxembourg']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Latvia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Latvia', ['Latvia'], [''], ['https://en.wikipedia.org/wiki/Latvia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Latvia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Latvia', ['Republic of Latvia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Latvia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Macau')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Macau', ['Macau'], [''], ['https://en.wikipedia.org/wiki/Macau']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "Macao Special Administrative Region of the People's Republic of China")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["Macao Special Administrative Region of the People's Republic of China", ["Macao Special Administrative Region of the People's Republic of China"], [''], ['https://en.wikipedia.org/wiki/Macao_Special_Administrative_Region_of_the_People%27s_Republic_of_China']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Martin')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Saint Martin')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Saint Martin', ['Saint Martin'], [''], ['https://en.wikipedia.org/wiki/Saint_Martin']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Morocco')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Morocco', ['Morocco'], [''], ['https://en.wikipedia.org/wiki/Morocco']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Morocco')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Morocco', ['Kingdom of Morocco'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Morocco']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Monaco')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Monaco', ['Monaco'], [''], ['https://en.wikipedia.org/wiki/Monaco']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Principality of Monaco')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Principality of Monaco', ['Principality of Monaco'], [''], ['https://en.wikipedia.org/wiki/Principality_of_Monaco']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Moldova')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Moldova', ['Moldova'], [''], ['https://en.wikipedia.org/wiki/Moldova']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Moldova')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Moldova', ['Republic of Moldova'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Moldova']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Madagascar')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Madagascar', ['Madagascar'], [''], ['https://en.wikipedia.org/wiki/Madagascar']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Madagascar')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Madagascar', ['Republic of Madagascar'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Madagascar']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Maldives')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Maldives', ['Maldives'], [''], ['https://en.wikipedia.org/wiki/Maldives']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Maldives')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of the Maldives', ['Republic of the Maldives'], [''], ['https://en.wikipedia.org/wiki/Republic_of_the_Maldives']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mexico')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Mexico', ['Mexico'], [''], ['https://en.wikipedia.org/wiki/Mexico']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'United Mexican States')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['United Mexican States', ['United Mexican States'], [''], ['https://en.wikipedia.org/wiki/United_Mexican_States']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Marshall Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Marshall Islands', ['Marshall Islands'], [''], ['https://en.wikipedia.org/wiki/Marshall_Islands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Marshall Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of the Marshall Islands', ['Republic of the Marshall Islands'], [''], ['https://en.wikipedia.org/wiki/Republic_of_the_Marshall_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'North Macedonia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['North Macedonia', ['North Macedonia'], [''], ['https://en.wikipedia.org/wiki/North_Macedonia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of North Macedonia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of North Macedonia', ['Republic of North Macedonia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_North_Macedonia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mali')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Mali', ['Mali'], [''], ['https://en.wikipedia.org/wiki/Mali']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Mali')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Mali', ['Republic of Mali'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Mali']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Malta')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Malta', ['Malta'], [''], ['https://en.wikipedia.org/wiki/Malta']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Malta')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Malta', ['Republic of Malta'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Malta']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Myanmar')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Myanmar', ['Myanmar'], [''], ['https://en.wikipedia.org/wiki/Myanmar']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Union of Myanmar')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of the Union of Myanmar', ['Republic of The Union of Myanmar'], [''], ['https://en.wikipedia.org/wiki/Republic_of_The_Union_of_Myanmar']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Montenegro')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Montenegro')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Montenegro', ['Montenegro'], [''], ['https://en.wikipedia.org/wiki/Montenegro']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mongolia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Mongolia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Mongolia', ['Mongolia'], [''], ['https://en.wikipedia.org/wiki/Mongolia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Northern Mariana Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Northern Mariana Islands', ['Northern Mariana Islands'], [''], ['https://en.wikipedia.org/wiki/Northern_Mariana_Islands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Commonwealth of the Northern Mariana Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Commonwealth of the Northern Mariana Islands', ['Commonwealth of the Northern Mariana Islands'], [''], ['https://en.wikipedia.org/wiki/Commonwealth_of_the_Northern_Mariana_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mozambique')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Mozambique', ['Mozambique'], [''], ['https://en.wikipedia.org/wiki/Mozambique']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Mozambique')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Mozambique', ['Republic of Mozambique'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Mozambique']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mauritania')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Mauritania', ['Mauritania'], [''], ['https://en.wikipedia.org/wiki/Mauritania']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Islamic Republic of Mauritania')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Islamic Republic of Mauritania', ['Islamic Republic of Mauritania'], [''], ['https://en.wikipedia.org/wiki/Islamic_Republic_of_Mauritania']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Montserrat')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Montserrat')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Montserrat', ['Montserrat'], [''], ['https://en.wikipedia.org/wiki/Montserrat']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Martinique')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Martinique')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Martinique', ['Martinique'], [''], ['https://en.wikipedia.org/wiki/Martinique']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mauritius')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Mauritius', ['Mauritius'], [''], ['https://en.wikipedia.org/wiki/Mauritius']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Mauritius')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Mauritius', ['Republic of Mauritius'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Mauritius']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Malawi')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Malawi', ['Malawi'], [''], ['https://en.wikipedia.org/wiki/Malawi']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Malawi')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Malawi', ['Republic of Malawi'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Malawi']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Malaysia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Malaysia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Malaysia', ['Malaysia'], [''], ['https://en.wikipedia.org/wiki/Malaysia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Mayotte')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Mayotte', ['Mayotte'], [''], ['https://en.wikipedia.org/wiki/Mayotte']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Department of Mayotte')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Department of Mayotte', [], [], []]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Namibia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Namibia', ['Namibia'], [''], ['https://en.wikipedia.org/wiki/Namibia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Namibia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Namibia', ['Republic of Namibia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Namibia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'New Caledonia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'New Caledonia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['New Caledonia', ['New Caledonia'], [''], ['https://en.wikipedia.org/wiki/New_Caledonia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Niger')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Niger', ['Niger'], [''], ['https://en.wikipedia.org/wiki/Niger']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Niger')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Niger', ['Republic of Niger'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Niger']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Norfolk Island')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Norfolk Island', ['Norfolk Island'], [''], ['https://en.wikipedia.org/wiki/Norfolk_Island']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Territory of Norfolk Island')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Territory of Norfolk Island', ['Territory of Norfolk Island'], [''], ['https://en.wikipedia.org/wiki/Territory_of_Norfolk_Island']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Nigeria')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Nigeria', ['Nigeria'], [''], ['https://en.wikipedia.org/wiki/Nigeria']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federal Republic of Nigeria')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federal Republic of Nigeria', ['Federal Republic of Nigeria'], [''], ['https://en.wikipedia.org/wiki/Federal_Republic_of_Nigeria']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Nicaragua')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Nicaragua', ['Nicaragua'], [''], ['https://en.wikipedia.org/wiki/Nicaragua']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Nicaragua')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Nicaragua', ['Republic of Nicaragua'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Nicaragua']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Niue')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Niue')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Niue', ['Niue'], [''], ['https://en.wikipedia.org/wiki/Niue']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Netherlands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Netherlands', ['Netherlands'], [''], ['https://en.wikipedia.org/wiki/Netherlands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of the Netherlands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of the Netherlands', ['Kingdom of the Netherlands'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Norway')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Norway', ['Norway'], [''], ['https://en.wikipedia.org/wiki/Norway']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Norway')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Norway', ['Kingdom of Norway'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Norway']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Nepal')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Nepal', ['Nepal'], [''], ['https://en.wikipedia.org/wiki/Nepal']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federal Democratic Republic of Nepal')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federal Democratic Republic of Nepal', ['Federal Democratic Republic of Nepal'], [''], ['https://en.wikipedia.org/wiki/Federal_Democratic_Republic_of_Nepal']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Nauru')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Nauru', ['Nauru'], [''], ['https://en.wikipedia.org/wiki/Nauru']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Nauru')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Nauru', ['Republic of Nauru'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Nauru']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'New Zealand')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'New Zealand')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['New Zealand', ['New Zealand'], [''], ['https://en.wikipedia.org/wiki/New_Zealand']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Oman')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Oman', ['Oman'], [''], ['https://en.wikipedia.org/wiki/Oman']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Sultanate of Oman')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Sultanate of Oman', ['Sultanate of Oman'], [''], ['https://en.wikipedia.org/wiki/Sultanate_of_Oman']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Pakistan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Pakistan', ['Pakistan'], [''], ['https://en.wikipedia.org/wiki/Pakistan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Islamic Republic of Pakistan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Islamic Republic of Pakistan', ['Islamic Republic of Pakistan'], [''], ['https://en.wikipedia.org/wiki/Islamic_Republic_of_Pakistan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Panama')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Panama', ['Panama Papers'], [''], ['https://en.wikipedia.org/wiki/Panama_Papers']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Panama')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Panama', ['Republic of Panama'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Panama']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Pitcairn Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Pitcairn Islands', ['Pitcairn Islands'], [''], ['https://en.wikipedia.org/wiki/Pitcairn_Islands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Pitcairn Group of Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Pitcairn Group of Islands', [], [], []]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Peru')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Peru', ['Peru'], [''], ['https://en.wikipedia.org/wiki/Peru']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Peru')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Peru', ['Republic of Peru'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Peru']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Philippines')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Philippines', ['Philippines'], [''], ['https://en.wikipedia.org/wiki/Philippines']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Philippines')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of the Philippines', ['Republic of the Philippines'], [''], ['https://en.wikipedia.org/wiki/Republic_of_the_Philippines']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Palau')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Palau', ['Palau'], [''], ['https://en.wikipedia.org/wiki/Palau']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Palau')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Palau', ['Republic of Palau'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Palau']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Papua New Guinea')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Papua New Guinea', ['Papua New Guinea'], [''], ['https://en.wikipedia.org/wiki/Papua_New_Guinea']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Independent State of Papua New Guinea')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Independent State of Papua New Guinea', ['Independent State of Papua New Guinea'], [''], ['https://en.wikipedia.org/wiki/Independent_State_of_Papua_New_Guinea']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Poland')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Poland', ['Poland'], [''], ['https://en.wikipedia.org/wiki/Poland']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Poland')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Poland', ['Republic of Poland'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Poland']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Puerto Rico')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Puerto Rico', ['Puerto Rico'], [''], ['https://en.wikipedia.org/wiki/Puerto_Rico']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Commonwealth of Puerto Rico')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Commonwealth of Puerto Rico', ['Commonwealth of Puerto Rico'], [''], ['https://en.wikipedia.org/wiki/Commonwealth_of_Puerto_Rico']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'North Korea')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['North Korea', ['North Korea'], [''], ['https://en.wikipedia.org/wiki/North_Korea']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, "Democratic People's Republic of Korea")", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ["Democratic People's Republic of Korea", ['Democratic People’s Republic of Korea'], [''], ['https://en.wikipedia.org/wiki/Democratic_People%E2%80%99s_Republic_of_Korea']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Portugal')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Portugal', ['Portugal'], [''], ['https://en.wikipedia.org/wiki/Portugal']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Portuguese Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Portuguese Republic', ['Portuguese Republic'], [''], ['https://en.wikipedia.org/wiki/Portuguese_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Paraguay')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Paraguay', ['Paraguay'], [''], ['https://en.wikipedia.org/wiki/Paraguay']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Paraguay')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Paraguay', ['Republic of Paraguay'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Paraguay']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Palestine')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Palestine', ['Palestine'], [''], ['https://en.wikipedia.org/wiki/Palestine']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'State of Palestine')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['State of Palestine', ['State of Palestine'], [''], ['https://en.wikipedia.org/wiki/State_of_Palestine']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'French Polynesia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'French Polynesia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['French Polynesia', ['French Polynesia'], [''], ['https://en.wikipedia.org/wiki/French_Polynesia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Qatar')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Qatar', ['Qatar'], [''], ['https://en.wikipedia.org/wiki/Qatar']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'State of Qatar')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['State of Qatar', ['State of Qatar'], [''], ['https://en.wikipedia.org/wiki/State_of_Qatar']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Réunion')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Réunion', ['Réunion'], [''], ['https://en.wikipedia.org/wiki/R%C3%A9union']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Réunion Island')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Réunion Island', ['Réunion Island'], [''], ['https://en.wikipedia.org/wiki/R%C3%A9union_Island']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Romania')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Romania')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Romania', ['Romania'], [''], ['https://en.wikipedia.org/wiki/Romania']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Russia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Russia', ['Russia'], [''], ['https://en.wikipedia.org/wiki/Russia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Russian Federation')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Russian Federation', ['Russian Federation'], [''], ['https://en.wikipedia.org/wiki/Russian_Federation']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Rwanda')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Rwanda', ['Rwandan genocide'], [''], ['https://en.wikipedia.org/wiki/Rwandan_genocide']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Rwanda')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Rwanda', ['Republic of Rwanda'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Rwanda']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saudi Arabia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Saudi Arabia', ['Saudi Arabian-led intervention in Yemen'], [''], ['https://en.wikipedia.org/wiki/Saudi_Arabian-led_intervention_in_Yemen']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Saudi Arabia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Saudi Arabia', ['Kingdom of Saudi Arabia'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Saudi_Arabia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Sudan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Sudan', ['Sudan'], [''], ['https://en.wikipedia.org/wiki/Sudan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of the Sudan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of the Sudan', ['Republic of the Sudan'], [''], ['https://en.wikipedia.org/wiki/Republic_of_the_Sudan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Senegal')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Senegal', ['Senegal'], [''], ['https://en.wikipedia.org/wiki/Senegal']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Senegal')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Senegal', ['Republic of Senegal'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Senegal']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Singapore')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Singapore', ['Singapore'], [''], ['https://en.wikipedia.org/wiki/Singapore']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Singapore')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Singapore', ['Republic of Singapore'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Singapore']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'South Georgia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['South Georgia', ['South Georgia'], [''], ['https://en.wikipedia.org/wiki/South_Georgia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'South Georgia and the South Sandwich Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['South Georgia and the South Sandwich Islands', ['South Georgia and the South Sandwich Islands'], [''], ['https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Svalbard and Jan Mayen')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Svalbard and Jan Mayen', ['Svalbard and Jan Mayen'], [''], ['https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Svalbard og Jan Mayen')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Svalbard og Jan Mayen', [], [], []]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Solomon Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Solomon Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Solomon Islands', ['Solomon Islands'], [''], ['https://en.wikipedia.org/wiki/Solomon_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Sierra Leone')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Sierra Leone', ['Sierra Leone'], [''], ['https://en.wikipedia.org/wiki/Sierra_Leone']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Sierra Leone')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Sierra Leone', ['Republic of Sierra Leone'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Sierra_Leone']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'El Salvador')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['El Salvador', ['El Salvador'], [''], ['https://en.wikipedia.org/wiki/El_Salvador']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of El Salvador')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of El Salvador', ['Republic of El Salvador'], [''], ['https://en.wikipedia.org/wiki/Republic_of_El_Salvador']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'San Marino')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['San Marino', ['San Marino'], [''], ['https://en.wikipedia.org/wiki/San_Marino']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Most Serene Republic of San Marino')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Most Serene Republic of San Marino', ['Most Serene Republic of San Marino'], [''], ['https://en.wikipedia.org/wiki/Most_Serene_Republic_of_San_Marino']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Somalia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Somalia', ['Somalia'], [''], ['https://en.wikipedia.org/wiki/Somalia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Federal Republic of Somalia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Federal Republic of Somalia', ['Federal Republic of Somalia'], [''], ['https://en.wikipedia.org/wiki/Federal_Republic_of_Somalia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Pierre and Miquelon')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Saint Pierre and Miquelon')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Saint Pierre and Miquelon', ['Saint Pierre and Miquelon'], [''], ['https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Serbia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Serbia', ['Serbia'], [''], ['https://en.wikipedia.org/wiki/Serbia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Serbia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Serbia', ['Republic of Serbia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Serbia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'South Sudan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['South Sudan', ['South Sudan'], [''], ['https://en.wikipedia.org/wiki/South_Sudan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of South Sudan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of South Sudan', ['Republic of South Sudan'], [''], ['https://en.wikipedia.org/wiki/Republic_of_South_Sudan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'São Tomé and Príncipe')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['São Tomé and Príncipe', ['São Tomé and Príncipe'], [''], ['https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Democratic Republic of São Tomé and Príncipe')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Democratic Republic of São Tomé and Príncipe', ['Democratic Republic of São Tomé and Príncipe'], [''], ['https://en.wikipedia.org/wiki/Democratic_Republic_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Suriname')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Suriname', ['Suriname'], [''], ['https://en.wikipedia.org/wiki/Suriname']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Suriname')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Suriname', ['Republic of Suriname'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Suriname']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Slovakia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Slovakia', ['Slovakia'], [''], ['https://en.wikipedia.org/wiki/Slovakia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Slovak Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Slovak Republic', ['Slovak Republic'], [''], ['https://en.wikipedia.org/wiki/Slovak_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Slovenia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Slovenia', ['Slovenia'], [''], ['https://en.wikipedia.org/wiki/Slovenia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Slovenia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Slovenia', ['Republic of Slovenia'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Slovenia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Sweden')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Sweden', ['Sweden'], [''], ['https://en.wikipedia.org/wiki/Sweden']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Sweden')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Sweden', ['Kingdom of Sweden'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Sweden']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Eswatini')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Eswatini', ['Eswatini'], [''], ['https://en.wikipedia.org/wiki/Eswatini']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Eswatini')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Eswatini', ['Kingdom of eSwatini'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_eSwatini']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Sint Maarten')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Sint Maarten')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Sint Maarten', ['Sint Maarten'], [''], ['https://en.wikipedia.org/wiki/Sint_Maarten']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Seychelles')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Seychelles', ['Seychelles'], [''], ['https://en.wikipedia.org/wiki/Seychelles']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Seychelles')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Seychelles', ['Republic of Seychelles'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Seychelles']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Syria')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Syria', ['Syria'], [''], ['https://en.wikipedia.org/wiki/Syria']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Syrian Arab Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Syrian Arab Republic', ['Syrian Arab Republic'], [''], ['https://en.wikipedia.org/wiki/Syrian_Arab_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Turks and Caicos Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Turks and Caicos Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Turks and Caicos Islands', ['Turks and Caicos Islands'], [''], ['https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Chad')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Chad', ['Chad'], [''], ['https://en.wikipedia.org/wiki/Chad']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Chad')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Chad', ['Republic of Chad'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Chad']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Togo')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Togo', ['Togo'], [''], ['https://en.wikipedia.org/wiki/Togo']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Togolese Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Togolese Republic', ['Togolese Republic'], [''], ['https://en.wikipedia.org/wiki/Togolese_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Thailand')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Thailand', ['Thailand'], [''], ['https://en.wikipedia.org/wiki/Thailand']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Thailand')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Thailand', ['Kingdom Of Thailand'], [''], ['https://en.wikipedia.org/wiki/Kingdom_Of_Thailand']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Tajikistan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Tajikistan', ['Tajikistan'], [''], ['https://en.wikipedia.org/wiki/Tajikistan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Tajikistan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Tajikistan', ['Republic of Tajikistan'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Tajikistan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Tokelau')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Tokelau')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Tokelau', ['Tokelau'], [''], ['https://en.wikipedia.org/wiki/Tokelau']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Turkmenistan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Turkmenistan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Turkmenistan', ['Turkmenistan'], [''], ['https://en.wikipedia.org/wiki/Turkmenistan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Timor-Leste')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Timor-Leste', ['Timor-Leste'], [''], ['https://en.wikipedia.org/wiki/Timor-Leste']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Democratic Republic of Timor-Leste')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Democratic Republic of Timor-Leste', ['Democratic Republic of Timor-Leste'], [''], ['https://en.wikipedia.org/wiki/Democratic_Republic_of_Timor-Leste']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Tonga')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Tonga', ['Tonga'], [''], ['https://en.wikipedia.org/wiki/Tonga']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Kingdom of Tonga')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Kingdom of Tonga', ['Kingdom of Tonga'], [''], ['https://en.wikipedia.org/wiki/Kingdom_of_Tonga']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Trinidad and Tobago')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Trinidad and Tobago', ['Trinidad and Tobago'], [''], ['https://en.wikipedia.org/wiki/Trinidad_and_Tobago']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Trinidad and Tobago')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Trinidad and Tobago', ['Republic of Trinidad and Tobago'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Trinidad_and_Tobago']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Tunisia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Tunisia', ['Tunisia'], [''], ['https://en.wikipedia.org/wiki/Tunisia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Tunisian Republic')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Tunisian Republic', ['Tunisian Republic'], [''], ['https://en.wikipedia.org/wiki/Tunisian_Republic']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Turkey')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Turkey', ['Turkey'], [''], ['https://en.wikipedia.org/wiki/Turkey']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Turkey')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Turkey', ['Republic of turkey'], [''], ['https://en.wikipedia.org/wiki/Republic_of_turkey']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Tuvalu')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Tuvalu')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Tuvalu', ['Tuvalu'], [''], ['https://en.wikipedia.org/wiki/Tuvalu']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Taiwan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Taiwan', ['Taiwan'], [''], ['https://en.wikipedia.org/wiki/Taiwan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of China (Taiwan)')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of China (Taiwan)', ['Republic of China (Taiwan)'], [''], ['https://en.wikipedia.org/wiki/Republic_of_China_(Taiwan)']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Tanzania')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Tanzania', ['Tanzania'], [''], ['https://en.wikipedia.org/wiki/Tanzania']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'United Republic of Tanzania')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['United Republic of Tanzania', ['United Republic of Tanzania'], [''], ['https://en.wikipedia.org/wiki/United_Republic_of_Tanzania']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Uganda')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Uganda', ['Uganda'], [''], ['https://en.wikipedia.org/wiki/Uganda']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Uganda')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Uganda', ['Republic of Uganda'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Uganda']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Ukraine')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Ukraine')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Ukraine', ['Ukraine'], [''], ['https://en.wikipedia.org/wiki/Ukraine']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'United States Minor Outlying Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'United States Minor Outlying Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['United States Minor Outlying Islands', ['United States Minor Outlying Islands'], [''], ['https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Uruguay')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Uruguay', ['Uruguay'], [''], ['https://en.wikipedia.org/wiki/Uruguay']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Oriental Republic of Uruguay')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Oriental Republic of Uruguay', ['Oriental Republic of Uruguay'], [''], ['https://en.wikipedia.org/wiki/Oriental_Republic_of_Uruguay']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'United States')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['United States', ['United States'], [''], ['https://en.wikipedia.org/wiki/United_States']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'United States of America')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['United States of America', ['United States of America'], [''], ['https://en.wikipedia.org/wiki/United_States_of_America']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Uzbekistan')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Uzbekistan', ['Uzbekistan'], [''], ['https://en.wikipedia.org/wiki/Uzbekistan']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Uzbekistan')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Uzbekistan', ['Republic of Uzbekistan'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Uzbekistan']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Vatican City')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Vatican City', ['Vatican City'], [''], ['https://en.wikipedia.org/wiki/Vatican_City']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Vatican City State')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Vatican City State', ['Vatican City-State'], [''], ['https://en.wikipedia.org/wiki/Vatican_City-State']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Saint Vincent and the Grenadines')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Saint Vincent and the Grenadines')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: ['Saint Vincent and the Grenadines', ['Saint Vincent and the Grenadines'], [''], ['https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Venezuela')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Venezuela', ['Venezuela'], [''], ['https://en.wikipedia.org/wiki/Venezuela']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Bolivarian Republic of Venezuela')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Bolivarian Republic of Venezuela', ['Bolivarian Republic of Venezuela'], [''], ['https://en.wikipedia.org/wiki/Bolivarian_Republic_of_Venezuela']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'British Virgin Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['British Virgin Islands', ['British Virgin Islands'], [''], ['https://en.wikipedia.org/wiki/British_Virgin_Islands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Virgin Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Virgin Islands', ['Virgin Islands National Park'], [''], ['https://en.wikipedia.org/wiki/Virgin_Islands_National_Park']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'United States Virgin Islands')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['United States Virgin Islands', ['United States Virgin Islands'], [''], ['https://en.wikipedia.org/wiki/United_States_Virgin_Islands']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Virgin Islands of the United States')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Virgin Islands of the United States', ['Virgin Islands of the United States'], [''], ['https://en.wikipedia.org/wiki/Virgin_Islands_of_the_United_States']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Vietnam')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Vietnam', ['Vietnam War'], [''], ['https://en.wikipedia.org/wiki/Vietnam_War']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Socialist Republic of Vietnam')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Socialist Republic of Vietnam', ['Socialist Republic of Vietnam'], [''], ['https://en.wikipedia.org/wiki/Socialist_Republic_of_Vietnam']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Vanuatu')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Vanuatu', ['Vanuatu'], [''], ['https://en.wikipedia.org/wiki/Vanuatu']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Vanuatu')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Vanuatu', ['Republic of Vanuatu'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Vanuatu']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Wallis and Futuna')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Wallis and Futuna', ['Wallis and Futuna'], [''], ['https://en.wikipedia.org/wiki/Wallis_and_Futuna']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Territory of the Wallis and Futuna Islands')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Territory of the Wallis and Futuna Islands', ['Territory of the Wallis and Futuna Islands'], [''], ['https://en.wikipedia.org/wiki/Territory_of_the_Wallis_and_Futuna_Islands']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Samoa')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Samoa', ['Samoa'], [''], ['https://en.wikipedia.org/wiki/Samoa']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Independent State of Samoa')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Independent State of Samoa', ['Independent state of samoa'], [''], ['https://en.wikipedia.org/wiki/Independent_state_of_samoa']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Yemen')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Yemen', ['Yemen'], [''], ['https://en.wikipedia.org/wiki/Yemen']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Yemen')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Yemen', ['Republic of Yemen'], [''], ['https://en.wikipedia.org/wiki/Republic_of_Yemen']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'South Africa')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['South Africa', ['South Africa'], [''], ['https://en.wikipedia.org/wiki/South_Africa']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of South Africa')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of South Africa', ['Republic of south africa'], [''], ['https://en.wikipedia.org/wiki/Republic_of_south_africa']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Zambia')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Zambia', ['Zambia'], [''], ['https://en.wikipedia.org/wiki/Zambia']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Zambia')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Zambia', ['Republic Of Zambia'], [''], ['https://en.wikipedia.org/wiki/Republic_Of_Zambia']]
 ____________________________________
 Вызвана функция "get_url"
-Аргументы: "(<__main__.WikiSearch object at 0x000002B16A854760>, 'Zimbabwe')", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
-Результат: ['Zimbabwe', ['Zimbabwe'], [''], ['https://en.wikipedia.org/wiki/Zimbabwe']]
+Аргументы: "(<__main__.WikiSearch object at 0x000002176BE34760>, 'Republic of Zimbabwe')", "{}"
+Старт программы: 2020-07-14 12:17:23.923006
+Результат: ['Republic of Zimbabwe', ['Republic Of Zimbabwe'], [''], ['https://en.wikipedia.org/wiki/Republic_Of_Zimbabwe']]
 ____________________________________
 Вызвана функция "get_file"
 Аргументы: "()", "{}"
-Старт программы: 2020-07-14 12:07:08.277791
+Старт программы: 2020-07-14 12:17:23.923006
 Результат: None
 ____________________________________
